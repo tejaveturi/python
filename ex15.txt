@@ -1,0 +1,5 @@
+ this stuff i typed in this file
+ this is cool stuff\
+ going to read and wirite from file
+ thanks and regards 
+ KrishnaTeja Veturi  
