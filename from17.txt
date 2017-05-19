@@ -2,3 +2,6 @@ hello this is good test
 if you pass good 
 else good
 bye
+Scripting ability - Bash, Ruby, Python, PHP.
+Solid understanding of DNS, TCPDUMP, CDNS, SSL, Git, Firewalls and network concepts.
+Experience with automation/configuration management using either Puppet, Chef or an equivalent
